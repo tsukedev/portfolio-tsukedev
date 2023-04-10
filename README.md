@@ -3,7 +3,7 @@
 
 Projeto desenvolvido com a finalidade de fornecer um portfólio profissional demonstrando de forma objetiva minhas capacidades técnicas e resolução de problemas por meio de uma interface simples, moderna e intuitiva.
 
-### Link do portfolio:
+### Link do portfólio:
 https://portfolio-tsukedev-tsukedev.vercel.app
 
 🎲 Utilizando projeto
