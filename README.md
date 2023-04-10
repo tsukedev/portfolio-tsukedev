@@ -3,6 +3,9 @@
 
 Projeto desenvolvido com a finalidade de fornecer um portfólio profissional demonstrando de forma objetiva minhas capacidades técnicas e resolução de problemas por meio de uma interface simples, moderna e intuitiva.
 
+### Link do portfolio:
+https://portfolio-tsukedev-tsukedev.vercel.app
+
 🎲 Utilizando projeto
 ---------------------
 
@@ -13,6 +16,3 @@ Para utilizar o projeto basta fazer o fork do repositório em computador e ao ba
 ### ▪️ Iniciando visualização do projeto
 
 Ao finalizar o download das dependências, inicie a visualização do projeto em ambiente de desenvolvimento com o comando: `yarn dev`
-
-### Link do portfolio:
-https://portfolio-tsukedev-tsukedev.vercel.app
