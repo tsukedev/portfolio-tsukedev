@@ -2,19 +2,13 @@
 import { Container, Flex } from "@/styles/Global";
 import { Text } from "@/styles/Text";
 import { Button } from "@/styles/Buttons";
-
-// Components
 import { Stack } from "@/components/Stack";
 import { Project } from "@/components/Project";
 import { Contacts } from "@/components/Contacts";
-
-// Data
 import { stackData } from "@/utils/stackData";
 import { userData } from "@/utils/userData";
-
 import { FaGithub } from "react-icons/fa";
-
-// Page Style
+import About from "@/components/AboutMe";
 import {
   Header,
   HeaderContent,
@@ -107,6 +101,7 @@ export const Home = (): JSX.Element => {
           </ProjectAreaWrapperColumns>
         </Container>
       </ProjectsArea>
+      <About/>
       <Contacts />
     </main>
   );
