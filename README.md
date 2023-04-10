@@ -13,3 +13,6 @@ Para utilizar o projeto basta fazer o fork do repositório em computador e ao ba
 ### ▪️ Iniciando visualização do projeto
 
 Ao finalizar o download das dependências, inicie a visualização do projeto em ambiente de desenvolvimento com o comando: `yarn dev`
+
+### Link do portfolio:
+https://portfolio-tsukedev-tsukedev.vercel.app
